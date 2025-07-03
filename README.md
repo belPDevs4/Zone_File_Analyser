@@ -12,5 +12,6 @@
 - **`frontend/`**: Contains the static files (HTML, CSS, JS) for the user-facing interface.  
 - **`README.md`**: Explains how to set up and run the project.  
 - **`.gitignore`**: Prevents uploads of unnecessary files like `__pycache__`, virtual environments, or local outputs.  
+- **`ArchitectureDiagramsAndSampleFiles/`**: Contains the diagram and necessary files (All provided Contributed by Antariksha Da)  
 
 ---
